@@ -107,3 +107,9 @@ h1 {
     float: right;
     cursor: pointer;
 }
+
+.score-panel .timeWord {
+    margin-left: 50px;
+}
+
+/* TODO: Add animation to flip the card */
